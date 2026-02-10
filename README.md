@@ -108,7 +108,7 @@ Allows the user to change the safety distance threshold at runtime.
 **Example**
 ```bash
 ros2 service call /set_threshold rt2_interfaces/srv/SetThreshold "{threshold: 0.4}"
-
+```
 ---
 ## 5.2 Get Average Velocity
 
