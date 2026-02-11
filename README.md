@@ -103,6 +103,7 @@ A custom message is published to summarize the current safety status.
 - `/set_threshold` (`rt2_interfaces/srv/SetThreshold`)
 
 **Purpose**
+
 Allows the user to change the safety distance threshold at runtime.
 
 **Example**
