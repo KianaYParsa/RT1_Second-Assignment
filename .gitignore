@@ -1,0 +1,27 @@
+# ROS 2 / Colcon artifacts
+build/
+install/
+log/
+colcon.meta
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# OS / Temporary files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
