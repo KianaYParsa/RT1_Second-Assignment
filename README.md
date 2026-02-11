@@ -161,11 +161,12 @@ The Gazebo bridge subscribes to `/safe_cmd_vel`, ensuring that:
 # 7. Launch File
 
 The launch file:
-	-	starts Gazebo,
-	-	spawns the robot,
-	-	launches RViz,
-	-	starts the ROS–Gazebo bridge,
-	-	and publishes the robot state.
+
+- starts Gazebo,
+- spawns the robot,
+- launches RViz,
+- starts the ROS–Gazebo bridge,
+- and publishes the robot state.
 
 **Launch file**:
 
